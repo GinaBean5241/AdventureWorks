@@ -52,7 +52,11 @@
                   <li class="nav-item mx-3">
                     <a class="nav-link" href="/customers/index.cfm?fuseaction=ViewCustomers&showCustomers=all">Customers</a>
                   </li>
+                  <li class="nav-item mx-3">
+                    <a class="nav-link" href="/employees/index.cfm?fuseaction=ViewEmployees&showEmployees=all">Employees</a>
+                  </li>
                 </ul>
+
               </div>
             </div>
         </nav>
